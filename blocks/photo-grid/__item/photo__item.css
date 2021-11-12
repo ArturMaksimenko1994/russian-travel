@@ -1,0 +1,10 @@
+.photo-grid__item {
+  width: 100%;
+  transition: .3s;
+  display: block;
+}
+.photo-grid__item:hover {
+  transform: scale(1.05);
+}
+
+
