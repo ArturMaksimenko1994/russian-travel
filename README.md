@@ -12,5 +12,8 @@ ___
 
 - HTML5;
 - CSS3 (flex, Grid).
+___
 
-## Ссылка на GitHub Pages: https://arturmaksimenko1994.github.io/russian-travel/index.html
+## Ссылка на GitHub Pages:
+
+- https://arturmaksimenko1994.github.io/russian-travel/index.html
